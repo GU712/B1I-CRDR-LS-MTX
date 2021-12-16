@@ -12,14 +12,14 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]NOMEDASERIE (0000-0000)[/B][/COLOR]</name>
+<name>[COLOR white][B]Sintonia (2019) (2019-2020)[/B][/COLOR]</name>
 <externallink><LINKDAPAGINAALVO></externallink>
-<thumbnail><CAPADASERIE></thumbnail>
-<fanart><FUNDODASERIE></fanart>
-<info>Assista aqui os episodios da série NOMEDASERIE. 
-[COLOR orange][B]GENERO[/B][/COLOR]
-[COLOR orange][B]00 TEMPS - 00 EPs[/B][/COLOR]
-[COLOR orange][B]ANOS - 0000 a 0000[/B][/COLOR]</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/sTTxrKX9DzB5K6wdsfCs5bQ0r6r.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/6146fdy0RxZgs5soMCMlxNIfksF.jpg</fanart>
+<info>Assista aqui os episodios da série Sintonia. 
+[COLOR orange][B]CRIME E DRAMA[/B][/COLOR]
+[COLOR orange][B]02 TEMPs - 12 EPs[/B][/COLOR]
+[COLOR orange][B]ANOS - 2019 e 2020[/B][/COLOR]</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -30,7 +30,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <thumbnail><CAPADASERIE></thumbnail>
 <fanart><FUNDODASERIE></fanart>
 <info>Assista aqui os episodios da série NOMEDASERIE. 
-[COLOR orange][B]GENERO[/B][/COLOR]
+[COLOR orange][B]CRIME E DRAMA[/B][/COLOR]
 [COLOR orange][B]00 TEMPs - 00 EPs[/B][/COLOR]
 [COLOR orange][B]ANOS - 0000 a 0000[/B][/COLOR]</info>
 </channel>
