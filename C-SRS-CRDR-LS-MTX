@@ -12,11 +12,25 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
+<name>[COLOR white][B]Cidade Invisível (2021)[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/mello506/B1I-CRDR-LS-MTX/main/C3-SRS-Cidade.Invisivel-MTX</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/hh4uZv4lVkTBsBqtHCA5B4EMHBR.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/xqK9H0GxOLsr8JvhGWELWYLN8K2.jpg</fanart>
+<info>Assista aqui a série Cidade Invisível. 
+[COLOR orange][B]CRIME E DRAMA[/B][/COLOR]
+[COLOR orange][B]01 TEMP - 07 EPs[/B][/COLOR]
+[COLOR orange][B]ANO - 2021[/B][/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
 <name>[COLOR white][B]Mentes Criminosas (2005-2020)[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/B1I-CRDR-LS-MTX/main/C2-SRS-Criminal.Minds-MTX</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/qb71Ji4zPhgkFX8KgozzIfdE00g.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/eUzQqtB0NB0ZETOHnJednOdzeV8.jpg</fanart>
-<info>Assista aqui os episodios da série Mentes Criminosas. 
+<info>Assista aqui a série Mentes Criminosas. 
 [COLOR orange][B]CRIME E DRAMA[/B][/COLOR]
 [COLOR orange][B]15 TEMPS - 324  EPs[/B][/COLOR]
 [COLOR orange][B]ANOS - 2005 a 2020[/B][/COLOR]</info>
@@ -30,7 +44,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <externallink>https://raw.githubusercontent.com/mello506/B1I-CRDR-LS-MTX/main/C1-SRS-Sintonia-MTX</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/sTTxrKX9DzB5K6wdsfCs5bQ0r6r.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/6146fdy0RxZgs5soMCMlxNIfksF.jpg</fanart>
-<info>Assista aqui os episodios da série Sintonia. 
+<info>Assista aqui a série Sintonia. 
 [COLOR orange][B]CRIME E DRAMA[/B][/COLOR]
 [COLOR orange][B]02 TEMPs - 12 EPs[/B][/COLOR]
 [COLOR orange][B]ANOS - 2019 e 2020[/B][/COLOR]</info>
