@@ -1,344 +1,188 @@
-<item>				
-<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>				
-<link>NOLINK</link>				
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>				
-<info>[B]FAÇA SUA ESCOLHA E DIVIRTA-SE[/B]</info>				
-</item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+<item>		
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>		
+<link>NOLINK</link>		
+<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>		
+<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>		
+<info>[B]FAÇA SUA ESCOLHA E DIVIRTA-SE[/B]</info>		
+</item>		
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
+		
+<item>		
+<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Pessoa de Interesse[/B][/COLOR]</title>		
+<link>plugin://plugin.video.youtube/play/?video_id=0AuKPThFCos</link>		
+<thumbnail>https://www.themoviedb.org/t/p/original/6IzfTGPxvDXh50GqVRf5WLqI7TP.jpg</thumbnail>		
+<fanart>https://www.themoviedb.org/t/p/original/hOdTVqJPXTnvmWeXgRZBlXDdoYE.jpg</fanart>		
+<info>Assista ao trailer</info>		
+<genre>CRIME E DRAMA</genre> 		
+</item>		
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
+		
+<item>		
+<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Pessoa de Interesse (2011) T01 - HD DUB[/B][/COLOR]</title>		
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d6b730e95905f6437d08f7924279aacfba4eef30</link>		
+<thumbnail>https://www.themoviedb.org/t/p/original/27WTjcpyx45PjiscT3RvMN8tF9U.jpg</thumbnail>		
+<fanart>https://www.themoviedb.org/t/p/original/hOdTVqJPXTnvmWeXgRZBlXDdoYE.jpg</fanart>		
+<info>John Reese, um ex-agente da CIA, é recrutado por Finch, um milionário e gênio da tecnologia, para ajudar na identificação de pessoas envolvidas em futuros crimes.</info>		
+<genre>CRIME E DRAMA</genre>		
+</item>		
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
+		
+<item>		
+<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Pessoa de Interesse (2012) T02 - HD DUB[/B][/COLOR]</title>		
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8cfd2fba1442a8e078f1a2b9546f99f8cfeed323</link>		
+<thumbnail>https://www.themoviedb.org/t/p/original/dNutl6N1mEq12ugZlLt0tGeuqmE.jpg</thumbnail>		
+<fanart>https://www.themoviedb.org/t/p/original/hOdTVqJPXTnvmWeXgRZBlXDdoYE.jpg</fanart>		
+<info>John Reese, um ex-agente da CIA, é recrutado por Finch, um milionário e gênio da tecnologia, para ajudar na identificação de pessoas envolvidas em futuros crimes.</info>		
+<genre>CRIME E DRAMA</genre>		
+</item>		
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
+		
+<item>		
+<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Pessoa de Interesse (2013) T03 - HD DUB[/B][/COLOR]</title>		
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9d1c784ee8c14e214ec572e7d0d7a5805c82cb3b</link>		
+<thumbnail>https://www.themoviedb.org/t/p/original/7Zf7tpmo7BovQJ028v1T9dZLHca.jpg</thumbnail>		
+<fanart>https://www.themoviedb.org/t/p/original/hOdTVqJPXTnvmWeXgRZBlXDdoYE.jpg</fanart>		
+<info>John Reese, um ex-agente da CIA, é recrutado por Finch, um milionário e gênio da tecnologia, para ajudar na identificação de pessoas envolvidas em futuros crimes.</info>		
+<genre>CRIME E DRAMA</genre>		
+</item>		
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
+		
+<item>		
+<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Pessoa de Interesse (2014) T04 - HD LEG[/B][/COLOR]</title>		
+		
+<link>NOLINK$nome=[COLOR orange][B] Temporada 04 - 22 EPs[/B][/COLOR]</link>		
+		
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:19bce7ca613ab5842cfa5235e7422d3f97d16818$nome=[COLOR orange][B]T04E01[COLOR yellow] -> [COLOR white]Pessoa de Interesse [/B][/COLOR]</link>		
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2364c96928ce9bf27bff5448398e44b8c3ab56fa$nome=[COLOR orange][B]T04E02[COLOR yellow] -> [COLOR white]Pessoa de Interesse [/B][/COLOR]</link>		
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8b0eb8de9791f9fa9ea292851d77fd15427b6178$nome=[COLOR orange][B]T04E03[COLOR yellow] -> [COLOR white]Pessoa de Interesse [/B][/COLOR]</link>		
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:17b5aaf851bfc86fca2f7085ce4f862fa025f1c9$nome=[COLOR orange][B]T04E04[COLOR yellow] -> [COLOR white]Pessoa de Interesse [/B][/COLOR]</link>		
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3bf15095d1ba81ba3d524d847daa5aa0750eba5a$nome=[COLOR orange][B]T04E05[COLOR yellow] -> [COLOR white]Pessoa de Interesse [/B][/COLOR]</link>		
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:104b4ba761bea97db601d9794b0cab5c204be36e$nome=[COLOR orange][B]T04E06[COLOR yellow] -> [COLOR white]Pessoa de Interesse [/B][/COLOR]</link>		
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3cb50bc794f991f0ed45dd9029a283f35197c75a$nome=[COLOR orange][B]T04E07[COLOR yellow] -> [COLOR white]Pessoa de Interesse [/B][/COLOR]</link>		
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:05bdc5cd1aad710bd59287116a1ceb718409ec22$nome=[COLOR orange][B]T04E08[COLOR yellow] -> [COLOR white]Pessoa de Interesse [/B][/COLOR]</link>		
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:61522ccd6c1e1dc39aaed5419cc96a0d963646e6$nome=[COLOR orange][B]T04E09[COLOR yellow] -> [COLOR white]Pessoa de Interesse [/B][/COLOR]</link>		
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:39ff35bd0de20ed65e8df260a1279397520d7f89$nome=[COLOR orange][B]T04E10[COLOR yellow] -> [COLOR white]Pessoa de Interesse [/B][/COLOR]</link>		
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:77060eea5bf0aafd417471d86a4cb3e39995ca64T>$nome=[COLOR orange][B]T04E11[COLOR yellow] -> [COLOR white]Pessoa de Interesse [/B][/COLOR]</link>		
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:784ae22d8a3de09f453692075d8c2ff118d610d4$nome=[COLOR orange][B]T04E12[COLOR yellow] -> [COLOR white]Pessoa de Interesse [/B][/COLOR]</link>		
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6aa2024a298c898adb621612f83cc46794f5b259$nome=[COLOR orange][B]T04E13[COLOR yellow] -> [COLOR white]Pessoa de Interesse [/B][/COLOR]</link>		
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4fb10b434f9f41b82dc30f016be5083105fb9e5e$nome=[COLOR orange][B]T04E14[COLOR yellow] -> [COLOR white]Pessoa de Interesse [/B][/COLOR]</link>		
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:28a16ab5400f2c47cd11b547990849f47041229e$nome=[COLOR orange][B]T04E15[COLOR yellow] -> [COLOR white]Pessoa de Interesse [/B][/COLOR]</link>		
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1756aa6f11cd77c33a8ab8289aa09779aa913853$nome=[COLOR orange][B]T04E16[COLOR yellow] -> [COLOR white]Pessoa de Interesse [/B][/COLOR]</link>		
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6ca9d0078305d89d273bce2765e6e5a1b2b17ba8$nome=[COLOR orange][B]T04E17[COLOR yellow] -> [COLOR white]Pessoa de Interesse [/B][/COLOR]</link>		
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0a7b82c368abe981dbfa337a81ae20b744d14079$nome=[COLOR orange][B]T04E18[COLOR yellow] -> [COLOR white]Pessoa de Interesse [/B][/COLOR]</link>		
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:33e1c8aa8013e5be81b6d54b092f7c52dd365070$nome=[COLOR orange][B]T04E19[COLOR yellow] -> [COLOR white]Pessoa de Interesse [/B][/COLOR]</link>		
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8e888b94873e5d1f35e512033329034a86664bff$nome=[COLOR orange][B]T04E20[COLOR yellow] -> [COLOR white]Pessoa de Interesse [/B][/COLOR]</link>		
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:92a93703458d2f6983b5773bab7e3b09dd97191b$nome=[COLOR orange][B]T04E21[COLOR yellow] -> [COLOR white]Pessoa de Interesse [/B][/COLOR]</link>		
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5b0fd078cb0f669a69c4a9c40eb3487ea9ff06ba$nome=[COLOR orange][B]T04E22[COLOR yellow] -> [COLOR white]Pessoa de Interesse [/B][/COLOR]</link>		
+		
+<thumbnail>https://www.themoviedb.org/t/p/original/8YsLetNxUmcLLQOLTkla7tX5xvE.jpg</thumbnail>		
+<fanart>https://www.themoviedb.org/t/p/original/hOdTVqJPXTnvmWeXgRZBlXDdoYE.jpg</fanart>		
+<info>John Reese, um ex-agente da CIA, é recrutado por Finch, um milionário e gênio da tecnologia, para ajudar na identificação de pessoas envolvidas em futuros crimes.</info>		
+<genre>CRIME E DRAMA</genre>		
+</item>		
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
+		
+<item>		
+<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Pessoa de Interesse (2016) T05 - HD LEG[/B][/COLOR]</title>		
+		
+<link>NOLINK$nome=[COLOR orange][B] Temporada 05 - 13 EPs[/B][/COLOR]</link>		
+		
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2e81d40bf3ae8c2cb63b257a42e8153eb3fa85de$nome=[COLOR orange][B]T05E01[COLOR yellow] -> [COLOR white]Pessoa de Interesse [/B][/COLOR]</link>		
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4001e06a1696622f85622d2443bc207bfd5f8ed7$nome=[COLOR orange][B]T05E02[COLOR yellow] -> [COLOR white]Pessoa de Interesse [/B][/COLOR]</link>		
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9f41d195c768e1006e32ef6f3a62f95f33e35b7d$nome=[COLOR orange][B]T05E03[COLOR yellow] -> [COLOR white]Pessoa de Interesse [/B][/COLOR]</link>		
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2d2c17679b1424e594e5c8f617ef063a507d6874$nome=[COLOR orange][B]T05E04[COLOR yellow] -> [COLOR white]Pessoa de Interesse [/B][/COLOR]</link>		
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7428b22bb10a6446ba3df4b6979711cd3f09068f$nome=[COLOR orange][B]T05E05[COLOR yellow] -> [COLOR white]Pessoa de Interesse [/B][/COLOR]</link>		
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0ec74e6175139d961c1e38b62bedf895782a8615$nome=[COLOR orange][B]T05E06[COLOR yellow] -> [COLOR white]Pessoa de Interesse [/B][/COLOR]</link>		
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:35f03a5698ef855a79a3d07e2d5dd2c1cae62ae9$nome=[COLOR orange][B]T05E07[COLOR yellow] -> [COLOR white]Pessoa de Interesse [/B][/COLOR]</link>		
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:472cfa17d0cab7a1368583579ba149f3e2913e20$nome=[COLOR orange][B]T05E08[COLOR yellow] -> [COLOR white]Pessoa de Interesse [/B][/COLOR]</link>		
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:270d0e178ac24789f8c0c421c3ef5e9aa606bad6$nome=[COLOR orange][B]T05E09[COLOR yellow] -> [COLOR white]Pessoa de Interesse [/B][/COLOR]</link>		
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:64ddbd3b1c15dab480c37856cade630844a6ea7a$nome=[COLOR orange][B]T05E10[COLOR yellow] -> [COLOR white]Pessoa de Interesse [/B][/COLOR]</link>		
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:03b84c68b00e0e8031c8745516597ef6fc72051e$nome=[COLOR orange][B]T05E11[COLOR yellow] -> [COLOR white]Pessoa de Interesse [/B][/COLOR]</link>		
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:13d1918d4a5c794b4de078fc8d05c21e526436c4$nome=[COLOR orange][B]T05E12[COLOR yellow] -> [COLOR white]Pessoa de Interesse [/B][/COLOR]</link>		
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:79e555ac9f7a22576362814721c71dd0db0c08e1$nome=[COLOR orange][B]T05E13[COLOR yellow] -> [COLOR white]Pessoa de Interesse [/B][/COLOR]</link>		
+		
+<thumbnail>https://www.themoviedb.org/t/p/original/q2yRgP99mXvWAYenGahukHXdyj4.jpg</thumbnail>		
+<fanart>https://www.themoviedb.org/t/p/original/hOdTVqJPXTnvmWeXgRZBlXDdoYE.jpg</fanart>		
+<info>John Reese, um ex-agente da CIA, é recrutado por Finch, um milionário e gênio da tecnologia, para ajudar na identificação de pessoas envolvidas em futuros crimes.</info>		
+<genre>CRIME E DRAMA</genre>		
+</item>		
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
+		
+		
+<item>		
+<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Pessoa de Interesse (2011) - T01 - HD DUB[/B][/COLOR]</title>		
+		
+<link>NOLINK$nome=[COLOR orange][B] Temporada 01 - 23 EPs[/B][/COLOR]</link>		
+		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Pessoa.de.Interesse/T01/LS-T01E01.mp4$nome=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Piloto  [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Pessoa.de.Interesse/T01/LS-T01E02.mp4$nome=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Fantasmas [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Pessoa.de.Interesse/T01/LS-T01E03.mp4$nome=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Missao Creep [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Pessoa.de.Interesse/T01/LS-T01E04.mp4$nome=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Cura Te Ipsum [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Pessoa.de.Interesse/T01/LS-T01E05.mp4$nome=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]Julgamento [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Pessoa.de.Interesse/T01/LS-T01E06.mp4$nome=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]A Corresao [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Pessoa.de.Interesse/T01/LS-T01E07.mp4$nome=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]Testemunha [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Pessoa.de.Interesse/T01/LS-T01E08.mp4$nome=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]Inimigo [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Pessoa.de.Interesse/T01/LS-T01E09.mp4$nome=[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white]Chame o Carter [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Pessoa.de.Interesse/T01/LS-T01E10.mp4$nome=[COLOR orange][B]T01E10[COLOR yellow] -> [COLOR white]Triturasao de Numero [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Pessoa.de.Interesse/T01/LS-T01E11.mp4$nome=[COLOR orange][B]T01E11[COLOR yellow] -> [COLOR white]Super [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Pessoa.de.Interesse/T01/LS-T01E12.mp4$nome=[COLOR orange][B]T01E12[COLOR yellow] -> [COLOR white] Legado [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Pessoa.de.Interesse/T01/LS-T01E13.mp4$nome=[COLOR orange][B]T01E13[COLOR yellow] -> [COLOR white]Causa Raiz [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Pessoa.de.Interesse/T01/LS-T01E14.mp4$nome=[COLOR orange][B]T01E14[COLOR yellow] -> [COLOR white]Lobo e Filhote [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Pessoa.de.Interesse/T01/LS-T01E15.mp4$nome=[COLOR orange][B]T01E15[COLOR yellow] -> [COLOR white]Codigo Azul [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Pessoa.de.Interesse/T01/LS-T01E16.mp4$nome=[COLOR orange][B]T01E16[COLOR yellow] -> [COLOR white]Risco [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Pessoa.de.Interesse/T01/LS-T01E17.mp4$nome=[COLOR orange][B]T01E17[COLOR yellow] -> [COLOR white]Azul Bebe [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Pessoa.de.Interesse/T01/LS-T01E18.mp4$nome=[COLOR orange][B]T01E18[COLOR yellow] -> [COLOR white]Crise de Identidade [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Pessoa.de.Interesse/T01/LS-T01E19.mp4$nome=[COLOR orange][B]T01E19[COLOR yellow] -> [COLOR white]Carne e Osso [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Pessoa.de.Interesse/T01/LS-T01E20.mp4$nome=[COLOR orange][B]T01E20[COLOR yellow] -> [COLOR white]Matsya Nyaya [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Pessoa.de.Interesse/T01/LS-T01E21.mp4$nome=[COLOR orange][B]T01E21[COLOR yellow] -> [COLOR white]Parabens Pelo Aniversario [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Pessoa.de.Interesse/T01/LS-T01E22.mp4$nome=[COLOR orange][B]T01E22[COLOR yellow] -> [COLOR white]Nenhuma Boa Asao [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Pessoa.de.Interesse/T01/LS-T01E23.mp4$nome=[COLOR orange][B]T01E23[COLOR yellow] -> [COLOR white]Firewall [/B][/COLOR]</link>		
+		
+<thumbnail>https://www.themoviedb.org/t/p/original/27WTjcpyx45PjiscT3RvMN8tF9U.jpg</thumbnail>		
+<fanart>https://www.themoviedb.org/t/p/original/hOdTVqJPXTnvmWeXgRZBlXDdoYE.jpg</fanart>		
+<info>John Reese, um ex-agente da CIA, é recrutado por Finch, um milionário e gênio da tecnologia, para ajudar na identificação de pessoas envolvidas em futuros crimes.</info>		
+<genre>CRIME E DRAMA</genre>		
+</item>		
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
+		
+item>		
+<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Pessoa de Interesse (DATA) - T02 - FHD DUAL[/B][/COLOR]</title>		
+		
+<link>NOLINK$nome=[COLOR orange][B] Temporada 02 - 00 EPs[/B][/COLOR]</link>		
+		
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
+<link><LINKUNIVVERSAL>$nome=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]NomedoEpisodio[/B][/COLOR]</link>		
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
+		
+<link>NOLINK$nome=[COLOR black][B].[/B][/COLOR]</link>		
+<link>NOLINK$nome=[COLOR orange][B]  QUER ASSISTIR MAIS EPISODIOS?[/B][/COLOR]</link>		
+<link>NOLINK$nome=[COLOR orange][B]SOLICITE AO SUPORTE NO GRUPO DO WHATS.[/B][/COLOR]</link>		
+		
+<thumbnail>https://www.themoviedb.org/t/p/original/dNutl6N1mEq12ugZlLt0tGeuqmE.jpg</thumbnail>		
+<fanart>https://www.themoviedb.org/t/p/original/hOdTVqJPXTnvmWeXgRZBlXDdoYE.jpg</fanart>		
+<info>John Reese, um ex-agente da CIA, é recrutado por Finch, um milionário e gênio da tecnologia, para ajudar na identificação de pessoas envolvidas em futuros crimes.</info>		
+<genre>CRIME E DRAMA</genre>		
+</item>		
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
+		
+<item>		
+<title>[COLOR black].[/COLOR]</title>		
+<link>ignoreme</link>		
+<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>		
+<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>		
+</item>		
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
+		
+<item>		
+<title>[COLOR orange][B]QUER ASSISTIR OUTRA TEMPORADA ?		
+SOLICITE AO SUPORTE NO WHATS.[/B][/COLOR]</title>		
+<link>ignoreme</link>		
+<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>		
+<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>		
+</item>		
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
+		
+		
 				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-NUMERAL				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-LETRA "A"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-				
-<item>				
-<title>[COLOR white][B] Anjos da Vida: Mais Bravos Que o Mar (2006)[/B][/COLOR]</title>				
-<link>plugin://plugin.video.youtube/play/?video_id=nS6YrMYn_Rs$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Anjos da Vida: Mais Bravos Que o Mar[/B][/COLOR]</link>				
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:537f99dd2e5b21d642892058a52dbe29e0ecf6c1$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Anjos da Vida: Mais Bravos Que o Mar - HD DUB[/B][/COLOR]</link>				
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2a6df8008eabeec7548f822c926b79351e965298$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Anjos da Vida: Mais Bravos Que o Mar - FHD LEG[/B][/COLOR]</link>				
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/9CRDR-FM/LS-Anjos.da.Vida-Mais.Bravos.que.o.Mar.2006.HD.dub.mp4$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Anjos da Vida: Mais Bravos Que o Mar - HD DUB[/B][/COLOR]</link>				
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zLGq0aNMZ8ETeJSEGVYCTVGOpy9.jpg</thumbnail>				
-<fanart>https://www.themoviedb.org/t/p/original/d2W3eqK7bJmXRozxnrFAykk46Nj.jpg</fanart>				
-<info>Ainda muito abalado com um salvamento mal sucedido que resultou na morte de toda sua equipe, o lendário salva-vidas Ben Randall recebe uma missão que ele não quer aceitar – treinar jovens recrutas para os salvamentos em alto mar. Durante os treinos, ele enfrenta problemas com o aprendiz Jake Fisher, um campeão de natação que esconde um doloroso segredo e parece estar mais interessado em quebrar os recordes de Ben do que salvar vidas. Mas Ben percebe mais do que isso no novato. Jake é capaz de fazer o que for preciso para ser o melhor dos melhores.</info>				
-<genre>DRAMA</genre>				
-</item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-LETRA "B"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-LETRA "C"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-				
-<item>				
-<title>[COLOR white][B]Cabo do Medo (1991)[/B][/COLOR]</title>				
-<link>plugin://plugin.video.youtube/play/?video_id=mPsOIhZJug4$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Cabo do Medo[/B][/COLOR]</link>				
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a12436579a7bba05c7a51b759289386b8a651d66$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Cabo do Medo - HD LEG[/B][/COLOR]</link>				
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:078d1e2774742785fca265b5cec0198c2b8076ec$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Cabo do Medo - FHD DUAL[/B][/COLOR]</link>				
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/9CRDR-FM/LS-Cape.Fear.1991.FHD.DUAL.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Cabo do Medo - FHD DUAL[/B][/COLOR]</link>				
-<thumbnail>https://www.themoviedb.org/t/p/original/AfUtnysJQGFH5mZsoQNjle9Nibg.jpg</thumbnail>				
-<fanart>https://www.themoviedb.org/t/p/original/ntgpger7OwFNlEldxuvvFHDKzjW.jpg</fanart>				
-<info>O advogado Sam Bowden retém provas que poderiam livrar o agressor sexual Max Cady das acusações de estupro, ele passa 14 anos na prisão. Max,se dedica a perseguir e destruir a família Bowden.</info>				
-<genre>CRIME E DRAMA</genre>				
-</item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-LETRA "D"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-LETRA "E"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-				
-<item>				
-<title>[COLOR white][B]Entre Facas e Segredos (2019)[/B][/COLOR]</title>				
-<link>plugin://plugin.video.youtube/play/?video_id=w8GBFvqP1cM$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Entre Facas e Segredos[/B][/COLOR]</link>				
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:79258212464ca724270fb4c8df5116de4039339e$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Entre Facas e Segredos - HD LEG[/B][/COLOR]</link>				
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:80f0ab507fca4df3ce8b700e41cca2f578721cc8$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Entre Facas e Segredos - FHD DUB[/B][/COLOR]</link>				
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/9CRDR-FM/LS-Entre.Facas.e.Segredos.2019.FHD.dub.mp4$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Entre Facas e Segredos - FHD DUB[/B][/COLOR]</link>				
-<thumbnail>https://www.themoviedb.org/t/p/original/9H8PNc4JJRjPnfSh8gGukD0CbqQ.jpg</thumbnail>				
-<fanart>https://www.themoviedb.org/t/p/original/4HWAQu28e2yaWrtupFPGFkdNU7V.jpg</fanart>				
-<info>O escritor de histórias policiais Harlan Thrombey é encontrado morto dentro de sua propriedade. O detetive Benoit Blanc investiga o caso e descobre que, entre os funcionários misteriosos e a família conflituosa de Harlan, todos podem ser considerados suspeitos do crime.</info>				
-<genre>CRIME E DRAMA</genre>				
-</item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-				
-<subitem>				
-<title>[COLOR white][B]Estrada Sem Lei (2019)[/B][/COLOR]</title>				
-<link>plugin://plugin.video.youtube/play/?video_id=aH6vC-BBKOc$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Estrada Sem Lei[/B][/COLOR]</link>				
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d9b4f71c232689599923f0af7d0276829aef1884$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Estrada Sem Lei - HD DUAL[/B][/COLOR]</link>				
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:05e2beab63c9ab043288c2bb54a082e29fc3597b$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Estrada Sem Lei - FHD DUAL[/B][/COLOR]</link>				
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/9CRDR-FM/LS-Estrada.sem.Lei.2019.HD.dub.mp4$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Estrada Sem Lei - FHD DUB[/B][/COLOR]</link>				
-<thumbnail>https://www.themoviedb.org/t/p/original/57EBMNewtrm5AB2JQp1SH949UMq.jpg</thumbnail>				
-<fanart>https://www.themoviedb.org/t/p/original/1MUokmbc3qGXj69R8DyM6etF46Q.jpg</fanart>				
-<info>Frank Hamer e Maney Gault são dois policiais aposentados quando Bonnie e Clyde começam sua onda de assaltos e assassinatos.O FBI se mostra incapaz de capturar os bandidos, eles são recrutados para resolver o caso.</info>				
-<genre>GUERRA</genre>				
-</subitem>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-LETRA "F"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-				
-<item>				
-<title>[COLOR white][B]Faroeste Caboclo (2013)[/B][/COLOR]</title>				
-<link>plugin://plugin.video.youtube/play/?video_id=4azYkNkPtJg$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Faroeste Caboclo[/B][/COLOR]</link>				
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e42e1e090ad4e19d5b098f1f450691162593ca36$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Faroeste Caboclo - HD DUB[/B][/COLOR]</link>				
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c6b0ba2a5261dba2224da6ef5b17e63cbfa2588d$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Faroeste Caboclo - FHD DUB[/B][/COLOR]</link>				
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/9CRDR-FM/LS-Faroeste.Caboclo.2013.HD.dub.mp4$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Faroeste Caboclo - HD DUB[/B][/COLOR]</link>				
-<thumbnail>https://www.themoviedb.org/t/p/original/hDCH9rBbYidedO34yk8MZB7XrER.jpg</thumbnail>				
-<fanart>https://www.themoviedb.org/t/p/original/dZWgcfb1nracZxaGMm7GKH7dQCr.jpg</fanart>				
-<info>Maria Lúcia , filha de um senador , por quem se apaixona loucamente. Os dois começam uma relação marcada pela paixão e pelo romance, mas logo João se verá em meio a uma guerra com o playboy e traficante Jeremias , que coloca tudo a perder.</info>				
-<genre>CRIME E DRAMA</genre>				
-</item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-				
-<item>				
-<title>[COLOR white][B]Fogo Contra Fogo (1995)[/B][/COLOR]</title>				
-<link>plugin://plugin.video.youtube/play/?video_id=0xbBLJ1WGwQ$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Fogo Contra Fogo[/B][/COLOR]</link>				
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a6c127e066a8c115026ed3ca7fa9844f1bb08a37$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Fogo Contra Fogo - HD DUAL[/B][/COLOR]</link>				
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f6a29c40433798d7100ea06b5289fb4b31ec5d47$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Fogo Contra Fogo - FHD DUAL[/B][/COLOR]</link>				
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/9CRDR-FM/LS-Fogo.Contra.Fogo.1995.FHD.dub.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Fogo Contra Fogo - FHD DUB[/B][/COLOR]</link>				
-<thumbnail>https://www.themoviedb.org/t/p/original/cv1ZuY874Q0uqFkURO8hjI2471z.jpg</thumbnail>				
-<fanart>https://www.themoviedb.org/t/p/original/kMRdsjSHifqGZPfHdZIS8YfNMk0.jpg</fanart>				
-<info>Em Los Angeles um assalto no qual são roubados US$ 1,6 milhão de títulos ao portador e três policiais são mortos. Um detetive assume o caso. Apesar de contar com poucas pistas, lidando com ladrões profissionais e ter problemas em sua vida pessoal, ele tenta impedir que esta quadrilha continue operando.</info>				
-<genre>CRIME E DRAMA</genre>				
-</item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-LETRA "G"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-LETRA "H"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-LETRA "I"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-				
-<item>				
-<title>[COLOR white][B]Inimigos Públicos (2009)[/B][/COLOR]</title>				
-<link>plugin://plugin.video.youtube/play/?video_id=HbHWtHVEmU0$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Inimigos Publicos[/B][/COLOR]</link>				
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d6eb3f32e1d40b1d42a0b366dd893f9240ad828d$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Inimigos Publicos - HD DUB[/B][/COLOR]</link>				
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1c535d0acbc9ac385e2331324252b361fd588855$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Inimigos Publicos - FHD LEG[/B][/COLOR]</link>				
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/9CRDR-FM/LS-Inimigos.Publicos.2009.HD.DUAL-LFX.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Inimigos Publicos - FHD DUAL LEG FIX[/B][/COLOR]</link>				
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fkbq7aMOaneAPp62F0QeCeWHrLw.jpg</thumbnail>				
-<fanart>https://www.themoviedb.org/t/p/original/za2MCwq5Trnwa2t5yXB4PvTjLtx.jpg</fanart>				
-<info>John Dillinger era um criminoso audacioso e violento, mas que atraía a opinião pública ao seu favor, principalmente, porque dizia retirar das instituições financeiras o dinheiro que elas roubavam do cidadão. Seus assaltos a bancos e fugas rápidas enlouqueciam a polícia que não tinha condições de enfrentá-lo.</info>				
-<genre>CRIME E DRAMA</genre>				
-</item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-LETRA "J"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-LETRA "K"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-LETRA "L"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-LETRA "M"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-LETRA "N"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-LETRA "O"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-				
-<item>				
-<title>[COLOR white][B]O Ilusionista (2006)[/B][/COLOR]</title>				
-<link>plugin://plugin.video.youtube/play/?video_id=oT1pMakQPW0$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]O Ilusionista[/B][/COLOR]</link>				
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3d3000f0ef5dc20cd116d6314b149e4bbca67ac6$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Ilusionista - HD DUB[/B][/COLOR]</link>				
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5b674678015d8cd6c4100f41ac72ba39dc7f587d$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Ilusionista - HD LEG[/B][/COLOR]</link>				
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/9CRDR-FM/LS-O.Ilusionista.2006.FHD.DUAL.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]O Ilusionista - FHD DUB[/B][/COLOR]</link>				
-<thumbnail>https://www.themoviedb.org/t/p/original/uvHWsmniMfN8vfXerzwQueacv6w.jpg</thumbnail>				
-<fanart>https://www.themoviedb.org/t/p/original/8ScGUtKTupr5rVLiXRmffjKMRhH.jpg</fanart>				
-<info>Viena, início dos anos 1900. Um famoso mágico chamado Eisenheim se apaixona por uma duquesa comprometida e usa suas habilidades para roubá-la das garras do noivo, o príncipe herdeiro.</info>				
-<genre>CRIME E DRAMA</genre>				
-</item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-				
-<item>				
-<title>[COLOR white][B]O Último Matador (1996)[/B][/COLOR]</title>				
-<link>plugin://plugin.video.youtube/play/?video_id=6tkvgAv7LNc$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]O Ultimo Matador[/B][/COLOR]</link>				
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:25671d17f26ba50ba383ea5513e3f11942340205$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Ultimo Matador - HD DUAL[/B][/COLOR]</link>				
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:081d71c8fb3294f0ec511e136463f2bcd29253e8$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Ultimo Matador - HD LEG[/B][/COLOR]</link>				
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/9CRDR-FM/LS-O.Ultimo.Matador.1996.HD.dub.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]O Ultimo Matador - HD DUB[/B][/COLOR]</link>				
-<thumbnail>https://www.themoviedb.org/t/p/original/ulA2FivZe7CxJcvzXSue4z6CMNT.jpg</thumbnail>				
-<fanart>https://www.themoviedb.org/t/p/original/qfQGDBUuILDkRL5CPa897NAqcTZ.jpg</fanart>				
-<info>John Smith é um pistoleiro que, chega a cidade de Jericó, no Texas. Uma cidade-fantasma desde que duas violentas gangues expulsaram todas as pessoas decentes. Smith percebe a oportunidade de jogar uma gangue contra a outra e ganhar uma bolada de dinheiro como matador de aluguel.</info>				
-<genre>CRIME E DRAMA</genre>				
-</item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-LETRA "P"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-LETRA "Q"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-LETRA "R"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-LETRA "S"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-LETRA "T"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-				
-<item>				
-<title>[COLOR white][B]Tempo Esgotado (1995)[/B][/COLOR]</title>				
-<link>plugin://plugin.video.youtube/play/?video_id=DAj4NRw3IeY$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]NTempo Esgotado[/B][/COLOR]</link>				
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/9CRDR-FM/LS-Tempo.Esgotado.1995.SD.DUB.ts$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Tempo Esgotado - SD DUB[/B][/COLOR]</link>				
-<thumbnail>https://www.themoviedb.org/t/p/original/vB7zrVslVgGPEqKXh8Q4qVRdqbN.jpg</thumbnail>				
-<fanart>https://www.themoviedb.org/t/p/original/u1JzntSiNw9vUCqYIOcNDajWwdZ.jpg</fanart>				
-<info>Um homem comum e inexpressivo é forçado a uma situação em que é instruído a matar um político para salvar sua filha sequestrada.</info>				
-<genre>CRIME E DRAMA</genre>				
-</item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-				
-<item>				
-<title>[COLOR white][B]Titanic (1997)[/B][/COLOR]</title>				
-<link>plugin://plugin.video.youtube/play/?video_id=0uWkF-gz7jI$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Titanic[/B][/COLOR]</link>				
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9ea7bec55a1cedb97207833347e5d60d5b0328e3$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Titanic - HD DUAL[/B][/COLOR]</link>				
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0804d193020861dc018ddcefb81ecb9129a3c14e$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Titanic - FHD DUAL[/B][/COLOR]</link>				
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/9CRDR-FM/LS-Titanic.1997.FHD.dub.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Titanic - FHD DUB[/B][/COLOR]</link>				
-<thumbnail>https://www.themoviedb.org/t/p/original/cwRgiAjXREMbfr270MDZ73kQqIf.jpg</thumbnail>				
-<fanart>https://www.themoviedb.org/t/p/original/yDI6D5ZQh67YU4r2ms8qcSbAviZ.jpg</fanart>				
-<info>Um artista pobre e uma jovem rica se conhecem e se apaixonam na fatídica jornada do Titanic, em 1912.</info>				
-<genre>CRIME E DRAMA</genre>				
-</item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-LETRA "U"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-LETRA "V"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-LETRA "X"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-LETRA "Y"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-LETRA "W"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-LETRA "Z"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-				
-				
-<item>				
-<title>[COLOR white][B]Crimes de Família (2020)[/B][/COLOR]</title>				
-				
-<link>plugin://plugin.video.youtube/play/?video_id=jlS78f4XcSY$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Crimes de Familia[/B][/COLOR]</link>				
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:29f7797d2cd94cd560730f3fac1e45c63fd3f814$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Crimes de Familia - HD LEG[/B][/COLOR]</link>				
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:572c70e5fb53dbfe5601002dccc9dece77f4a240$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Crimes de Familia - FHD DUAL[/B][/COLOR]</link>				
-				
-<link><LINKUNIVERSAL>$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUB[/B][/COLOR]</link>				
-				
-<thumbnail>https://www.themoviedb.org/t/p/original/suVb5zxMvfoJ0ugvthas41KMDqq.jpg</thumbnail>				
-<fanart>https://www.themoviedb.org/t/p/original/mjDdDeUoE8dG86e6MOh2kdMl1R8.jpg</fanart>				
-<info>Desesperada e confusa, Alícia faz de tudo para evitar que o filho seja preso por tentativa de assassinato.</info>				
-<genre>DRAMA</genre>				
-</item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-				
-<item>				
-<title>[COLOR white][B]Sobreviver a Noite (2020) [/B][/COLOR]</title>				
-<link>plugin://plugin.video.youtube/play/?video_id=0tvMlLF93b4&feature=youtu.be$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Sobreviver a Noite[/B][/COLOR]</link>				
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:01c069acbc167b2fa8b3acfe29d2c54327ecb25b$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Sobreviver a Noite - HD DUAL[/B][/COLOR]</link>				
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a7a39f0959d89f55aa8491b8aa7c8113459f124c$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Sobreviver a Noite - FHD DUAL[/B][/COLOR]</link>				
-				
-<link><LINKUNIVERSAL>$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUB[/B][/COLOR]</link>				
-				
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xCDFEzX1omKlXp7jTqJmLoxJTr9.jpg</thumbnail>				
-<fanart>https://www.themoviedb.org/t/p/original/ppZUEibzPFcI0APHYwhxmsx0s0N.jpg</fanart>				
-<info>Dois criminosos implacáveis ​​entram na casa de um médico em decadência, para receber atendimento médico depois que um deles é baleado durante um assalto que deu errado. Sabendo que ele não tem o conhecimento necessário para consertar o invasor ferido, o médico deve proteger sua família a todo custo.</info>				
-<genre>CRIME E DRAMA</genre>  				
-</item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-				
-				
-				
-<item>				
-<title>[COLOR white][B]À Prova de Fogo (2008)[/B][/COLOR]</title>				
-<link>plugin://plugin.video.youtube/play/?video_id=<LINKDOTRAILER>$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]A Prova de Fogo[/B][/COLOR]</link>				
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0a81d1652de7386ec50bd0267039f0966dc0395a$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]A Prova de Fogo - HD LEG[/B][/COLOR]</link>				
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6fc906e0be5b81e107f830bee2d2ab955e3672ee$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]A Prova de Fogo - FHD DUAL[/B][/COLOR]</link>				
-				
-<link><LINKUNIVERSAL>$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUB[/B][/COLOR]</link>				
-				
-<thumbnail>https://www.themoviedb.org/t/p/original/94vWXepNu95YNoTSHCEwM212ugY.jpg</thumbnail>				
-<fanart>https://www.themoviedb.org/t/p/original/b6nBlpDd9sHXFMbyN26RA7JIyHA.jpg</fanart>				
-<info>No trabalho, o bombeiro Caleb Holt (Cameron) é um profissional que cumpre com todas as regras, sendo que uma delas é nunca deixar um companheiro para trás numa situação de perigo. Já em sua casa, ao lado da esposa Catherine (Bethea), as coisa são bem diferentes. Sempre ausente, depois de sete anos de união o casamento está chegando ao fim e eles estão decididos a se divorciar. Mas o pai de Caleb pede que ele inicie uma experiência de 40 dias a qual denomina "The Love Dare" (dia do desafio) na tentativa de salvar o casamento.</info>				
-<genre>DRAMA</genre>				
-</item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-				
-<item>				
-<title>[COLOR white][B]NomedoFilme (DATA)[/B][/COLOR]</title>				
-				
-<link>plugin://plugin.video.youtube/play/?video_id=<LINKDOTRAILER>$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]NomedoFilme[/B][/COLOR]</link>				
-				
-<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNTREDUZIDO>$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - HD DUAL[/B][/COLOR]</link>				
-				
-<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUAL[/B][/COLOR]</link>				
-				
-<link><LINKUNIVERSAL>$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUB[/B][/COLOR]</link>				
-				
-<thumbnail><ICONEDOFILME></thumbnail>				
-<fanart><FUNDODOFILME></fanart>				
-<info>SINOPSEDOFILME></info>				
-<genre>CRIME E DRAMA</genre>				
-</item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-				
-<item>				
-<title>[COLOR black].[/COLOR]</title>				
-<link>ignoreme</link>				
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>				
-</item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-				
-<item>				
-<title>[COLOR orange][B]NÃO ENCONTROU O QUE PROCURAVA ?				
-SOLICITE AO SUPORTE NO WHATS.[/B][/COLOR]</title>				
-<link>ignoreme</link>				
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>				
-</item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-				
-				
+		
