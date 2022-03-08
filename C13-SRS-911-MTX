@@ -113,7 +113,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>		
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
 		
-<item>		
+item>		
 <title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]9-1-1 (2018) - T03 - HD DUAL[/B][/COLOR]</title>		
 		
 <link>NOLINK$nome=[COLOR orange][B] Temporada 03 - 18 EPs[/B][/COLOR]</link>		
@@ -171,14 +171,21 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>		
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
 		
-item>		
+<item>		
 <title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]9-1-1 (2018) - T05 - HD DUAL[/B][/COLOR]</title>		
 		
-<link>NOLINK$nome=[COLOR orange][B] Temporada 05 - 00 EPs[/B][/COLOR]</link>		
+<link>NOLINK$nome=[COLOR orange][B] Temporada 05 - 08 EPs[/B][/COLOR]</link>		
 		
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
-<link><LINKUNIVVERSAL>$nome=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]NomedoEpisodio[/B][/COLOR]</link>		
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T05/LS-T05E01.mkv$nome=[COLOR orange][B]T05E01[COLOR yellow] -> [COLOR white]Panico [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T05/LS-T05E02.mkv$nome=[COLOR orange][B]T05E02[COLOR yellow] -> [COLOR white]Tempos Desesperados [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T05/LS-T05E03.mkv$nome=[COLOR orange][B]T05E03[COLOR yellow] -> [COLOR white]Medidas Desesperadas [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T05/LS-T05E04.mkv$nome=[COLOR orange][B]T05E04[COLOR yellow] -> [COLOR white]Casa E Fora [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T05/LS-T05E05.mkv$nome=[COLOR orange][B]T05E05[COLOR yellow] -> [COLOR white]Pressao Dos Colegas [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T05/LS-T05E06.mkv$nome=[COLOR orange][B]T05E06[COLOR yellow] -> [COLOR white]Briga No Bloco De Celas 9-1-1 [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T05/LS-T05E07.mkv$nome=[COLOR orange][B]T05E07[COLOR yellow] -> [COLOR white]Historias De Fantasma [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T05/LS-T05E08.mkv$nome=[COLOR orange][B]T05E08[COLOR yellow] -> [COLOR white]Defender No Lugar [/B][/COLOR]</link>		
+link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T05/LS-T05E09.mkv$nome=[COLOR orange][B]T05E09[COLOR yellow] -> [COLOR white]Passado e Prologo [/B][/COLOR]</link>		
+link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T05/LS-T05E10.mkv$nome=[COLOR orange][B]T05E10[COLOR yellow] -> [COLOR white]Enrolado Em Vermelho [/B][/COLOR]</link>		
 		
 <link>NOLINK$nome=[COLOR black][B].[/B][/COLOR]</link>		
 <link>NOLINK$nome=[COLOR orange][B]  QUER ASSISTIR MAIS EPISODIOS?[/B][/COLOR]</link>		
@@ -207,8 +214,6 @@ SOLICITE AO SUPORTE NO WHATS.[/B][/COLOR]</title>
 <fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>		
 </item>		
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
-		
-		
 		
 		
 		
