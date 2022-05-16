@@ -27,9 +27,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 		
 <link>NOLINK$nome=[COLOR orange][B] Temporada 01 - 05 EPs[/B][/COLOR]</link>		
 		
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
-<link><LINKUNIVVERSAL>$nome=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]NomedoEpisodio[/B][/COLOR]</link>		
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Great.Scapes/LS-T01E01.mp4$nome=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Grandes Fugas com Morgan Freeman [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Great.Scapes/LS-T01E02.mp4$nome=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Grandes Fugas com Morgan Freeman [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Great.Scapes/LS-T01E03.mp4$nome=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Grandes Fugas com Morgan Freeman [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Great.Scapes/LS-T01E04.mp4$nome=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Grandes Fugas com Morgan Freeman [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Great.Scapes/LS-T01E05.mp4$nome=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]Grandes Fugas com Morgan Freeman [/B][/COLOR]</link>		
 		
 <link>NOLINK$nome=[COLOR black][B].[/B][/COLOR]</link>		
 <link>NOLINK$nome=[COLOR orange][B]  QUER ASSISTIR MAIS EPISODIOS?[/B][/COLOR]</link>		
@@ -41,24 +43,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <genre>CRIME E DRAMA</genre>		
 </item>		
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
-		
-item>		
-<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Grandes Fugas com Morgan Freeman (DATA) - T02 - FHD DUAL[/B][/COLOR]</title>		
-		
-<link>NOLINK$nome=[COLOR orange][B] Temporada 02 - 00 EPs[/B][/COLOR]</link>		
-		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Great.Scapes/LS-T01E01.mp4$nome=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Grandes Fugas com Morgan Freeman [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Great.Scapes/LS-T01E02.mp4$nome=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Grandes Fugas com Morgan Freeman [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Great.Scapes/LS-T01E03.mp4$nome=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Grandes Fugas com Morgan Freeman [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Great.Scapes/LS-T01E04.mp4$nome=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Grandes Fugas com Morgan Freeman [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Great.Scapes/LS-T01E05.mp4$nome=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]Grandes Fugas com Morgan Freeman [/B][/COLOR]</link>		
-		
-<thumbnail>https://www.themoviedb.org/t/p/original/5I8wRcW9YUBUQcTkxt4X5IYG6Pu.jpg</thumbnail>		
-<fanart>https://www.themoviedb.org/t/p/original/yQO9IMNRxHI23fo7AXOtgqLQZ6Y.jpg</fanart>		
-<info>As fugas da cadeia mais ousadas da história, com detalhes verdadeiros sobre os meticulosos planos de fugas dos presos e a perseguição a eles que se segue.</info>		
-<genre>CRIME E DRAMA</genre>		
-</item>		
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
+				
 		
 <item>		
 <title>[COLOR black].[/COLOR]</title>		
