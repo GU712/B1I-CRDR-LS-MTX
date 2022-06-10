@@ -18,8 +18,12 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>		
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
 		
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
+TORRENTS		
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
+		
 <item>		
-<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]A Anatomia de Grey (2005) - T01 - HD DUAL[/B][/COLOR]</title>		
+<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]A Anatomia de Grey (2005) - T01 - HD DUB[/B][/COLOR]</title>		
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8a1bdf6a120578a989b00e9d7e9cadc58f3e69df</link>		
 <thumbnail>https://www.themoviedb.org/t/p/original/8rJ78hfh1jnhL8m02HXdLBkwBOB.jpg</thumbnail>		
 <fanart>https://www.themoviedb.org/t/p/original/jNPEKkFKMl7UCw4kbNUkXZNyhna.jpg</fanart>		
@@ -28,11 +32,10 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>		
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
 		
-item>		
-<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]A Anatomia de Grey (2005) - HD DUAL[/B][/COLOR]</title>		
-<link>NOLINK$nome=[COLOR orange][B] Completo - 3 Temps - 40 EPs[/B][/COLOR]</link>		
-<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNET>$nome=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO [/B][/COLOR]</link>		
-<thumbnail>https://www.themoviedb.org/t/p/original/8rJ78hfh1jnhL8m02HXdLBkwBOB.jpg</thumbnail>		
+<item>		
+<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]A Anatomia de Grey (2005) - T02 - HD DUB[/B][/COLOR]</title>		
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D67EF60D2A85266E244E4873B04BD567D9F86DF4</link>		
+<thumbnail>https://www.themoviedb.org/t/p/original/oX9wgNHUbSp4cGMfDdOsf08moy3.jpg</thumbnail>		
 <fanart>https://www.themoviedb.org/t/p/original/jNPEKkFKMl7UCw4kbNUkXZNyhna.jpg</fanart>		
 <info>Os médicos do Grey Sloan Memorial Hospital lidam diariamente com casos e consequências de vida ou morte.</info>		
 <genre>CRIME E DRAMA</genre>		
@@ -40,7 +43,113 @@ item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
 		
 <item>		
-<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]A Anatomia de Grey (2005) - T01 - HD DUAL[/B][/COLOR]</title>		
+<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]A Anatomia de Grey (2005) - T03 - HD DUB[/B][/COLOR]</title>		
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A79CBF259D568DD6D233211CEEAE8ED712ED0DC1</link>		
+<thumbnail>https://www.themoviedb.org/t/p/original/q4srjysf8e6S5y1J84DNnXf2dc9.jpg</thumbnail>		
+<fanart>https://www.themoviedb.org/t/p/original/jNPEKkFKMl7UCw4kbNUkXZNyhna.jpg</fanart>		
+<info>Os médicos do Grey Sloan Memorial Hospital lidam diariamente com casos e consequências de vida ou morte.</info>		
+<genre>CRIME E DRAMA</genre>		
+</item>		
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
+		
+<item>		
+<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]A Anatomia de Grey (2005) - T04 - HD DUB[/B][/COLOR]</title>		
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:01F62A3E74A5FFABE84D02E3FB1AE3DA2CF6D195</link>		
+<thumbnail>https://www.themoviedb.org/t/p/original/aundv6d0jRy29IP46s4yrRovkbt.jpg</thumbnail>		
+<fanart>https://www.themoviedb.org/t/p/original/jNPEKkFKMl7UCw4kbNUkXZNyhna.jpg</fanart>		
+<info>Os médicos do Grey Sloan Memorial Hospital lidam diariamente com casos e consequências de vida ou morte.</info>		
+<genre>CRIME E DRAMA</genre>		
+</item>		
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
+		
+<item>		
+<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]A Anatomia de Grey (2005) - T05 - HD DUB[/B][/COLOR]</title>		
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:315C8A5766429E9AD2EB7F9BBF7B6570C93C592C</link>		
+<thumbnail>https://www.themoviedb.org/t/p/original/iOmcJMkZZhiQjXyUvudxM9ehfFV.jpg</thumbnail>		
+<fanart>https://www.themoviedb.org/t/p/original/jNPEKkFKMl7UCw4kbNUkXZNyhna.jpg</fanart>		
+<info>Os médicos do Grey Sloan Memorial Hospital lidam diariamente com casos e consequências de vida ou morte.</info>		
+<genre>CRIME E DRAMA</genre>		
+</item>		
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
+		
+<item>		
+<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]A Anatomia de Grey (2005) - T06 - HD DUB[/B][/COLOR]</title>		
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D3C1D3BC5D71E5EF277AF80974FBAEB820664D6A</link>		
+<thumbnail>https://www.themoviedb.org/t/p/original/tPBQ3I912I1WPtQwksyolUEAgph.jpg</thumbnail>		
+<fanart>https://www.themoviedb.org/t/p/original/jNPEKkFKMl7UCw4kbNUkXZNyhna.jpg</fanart>		
+<info>Os médicos do Grey Sloan Memorial Hospital lidam diariamente com casos e consequências de vida ou morte.</info>		
+<genre>CRIME E DRAMA</genre>		
+</item>		
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
+		
+<item>		
+<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]A Anatomia de Grey (2005) - T07 - HD DUB[/B][/COLOR]</title>		
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5587253A217707E0377F74F6B550F7B45453F6BE</link>		
+<thumbnail>https://www.themoviedb.org/t/p/original/tf4nKiqJYK17873SZ5htviHboc9.jpg</thumbnail>		
+<fanart>https://www.themoviedb.org/t/p/original/jNPEKkFKMl7UCw4kbNUkXZNyhna.jpg</fanart>		
+<info>Os médicos do Grey Sloan Memorial Hospital lidam diariamente com casos e consequências de vida ou morte.</info>		
+<genre>CRIME E DRAMA</genre>		
+</item>		
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
+		
+<item>		
+<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]A Anatomia de Grey (2005) - T08 - HD DUB[/B][/COLOR]</title>		
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A3592D8DE1C6D63D7CCFC9293BAD6B1DA2D88561</link>		
+<thumbnail>https://www.themoviedb.org/t/p/original/iUNvhz7IKX5W56VGSACdybtb3Ww.jpg</thumbnail>		
+<fanart>https://www.themoviedb.org/t/p/original/jNPEKkFKMl7UCw4kbNUkXZNyhna.jpg</fanart>		
+<info>Os médicos do Grey Sloan Memorial Hospital lidam diariamente com casos e consequências de vida ou morte.</info>		
+<genre>CRIME E DRAMA</genre>		
+</item>		
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
+		
+<item>		
+<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]A Anatomia de Grey (2005) - T09 - HD DUB[/B][/COLOR]</title>		
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1DC662E85847E291B8C5BC14B876FCAFE23F600A</link>		
+<thumbnail>https://www.themoviedb.org/t/p/original/tnav2JBgXEAOLJ2nfQuDbfGS6ml.jpg</thumbnail>		
+<fanart>https://www.themoviedb.org/t/p/original/jNPEKkFKMl7UCw4kbNUkXZNyhna.jpg</fanart>		
+<info>Os médicos do Grey Sloan Memorial Hospital lidam diariamente com casos e consequências de vida ou morte.</info>		
+<genre>CRIME E DRAMA</genre>		
+</item>		
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
+		
+<item>		
+<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]A Anatomia de Grey (2005) - T10 - HD DUB[/B][/COLOR]</title>		
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0B6F38340A89C07CADE5646EB394C7C692A1CEEC</link>		
+<thumbnail>https://www.themoviedb.org/t/p/original/vE9Lmj2HkgOKKYraLHcX0Vb0JkC.jpg</thumbnail>		
+<fanart>https://www.themoviedb.org/t/p/original/jNPEKkFKMl7UCw4kbNUkXZNyhna.jpg</fanart>		
+<info>Os médicos do Grey Sloan Memorial Hospital lidam diariamente com casos e consequências de vida ou morte.</info>		
+<genre>CRIME E DRAMA</genre>		
+</item>		
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
+		
+<item>		
+<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]A Anatomia de Grey (2005) - T11 - HD DUB[/B][/COLOR]</title>		
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8B86ACAED50C68FEB94C6C6EF0E435CA66723C5B</link>		
+<thumbnail>https://www.themoviedb.org/t/p/original/99WyGkOW6y1aTcTyngsPDidacE2.jpg</thumbnail>		
+<fanart>https://www.themoviedb.org/t/p/original/jNPEKkFKMl7UCw4kbNUkXZNyhna.jpg</fanart>		
+<info>Os médicos do Grey Sloan Memorial Hospital lidam diariamente com casos e consequências de vida ou morte.</info>		
+<genre>CRIME E DRAMA</genre>		
+</item>		
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
+		
+<item>		
+<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]A Anatomia de Grey (2005) - T12 - HD DUB[/B][/COLOR]</title>		
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BF09DFF5C4792AF9BF9859FE0B108EBC0929527E</link>		
+<thumbnail>https://www.themoviedb.org/t/p/original/zbykoVi1uMUZMiRL8qhsO4lro10.jpg</thumbnail>		
+<fanart>https://www.themoviedb.org/t/p/original/jNPEKkFKMl7UCw4kbNUkXZNyhna.jpg</fanart>		
+<info>Os médicos do Grey Sloan Memorial Hospital lidam diariamente com casos e consequências de vida ou morte.</info>		
+<genre>CRIME E DRAMA</genre>		
+</item>		
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
+		
+		
+		
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
+SERVER LS		
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
+		
+<item>		
+<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]A Anatomia de Grey (2005) - T01 - HD DUB[/B][/COLOR]</title>		
 		
 <link>NOLINK$nome=[COLOR orange][B] Temporada 01 - 09 EPs[/B][/COLOR]</link>		
 		
@@ -62,7 +171,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
 		
 item>		
-<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]A Anatomia de Grey (2005) - T02 - FHD DUAL[/B][/COLOR]</title>		
+<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]A Anatomia de Grey (2005) - T02 - FHD DUB[/B][/COLOR]</title>		
 		
 <link>NOLINK$nome=[COLOR orange][B] Temporada 02 - 27 EPs[/B][/COLOR]</link>		
 		
@@ -78,7 +187,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
 		
 item>		
-<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]A Anatomia de Grey (2006) - T03 - FHD DUAL[/B][/COLOR]</title>		
+<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]A Anatomia de Grey (2006) - T03 - FHD DUB[/B][/COLOR]</title>		
 		
 <link>NOLINK$nome=[COLOR orange][B] Temporada 03 - 25 EPs[/B][/COLOR]</link>		
 		
@@ -87,6 +196,31 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
 		
 <thumbnail>https://www.themoviedb.org/t/p/original/q4srjysf8e6S5y1J84DNnXf2dc9.jpg</thumbnail>		
+<fanart>https://www.themoviedb.org/t/p/original/jNPEKkFKMl7UCw4kbNUkXZNyhna.jpg</fanart>		
+<info>Os médicos do Grey Sloan Memorial Hospital lidam diariamente com casos e consequências de vida ou morte.</info>		
+<genre>CRIME E DRAMA</genre>		
+</item>		
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
+		
+<item>		
+<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]A Anatomia de Grey (2021) - T18 - HD DUB[/B][/COLOR]</title>		
+		
+<link>NOLINK$nome=[COLOR orange][B] Temporada 18 - 12 EPs[/B][/COLOR]</link>		
+		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Grey.Anatomy/T18/LS-T18E01.mp4$nome=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Aí Vem O Sol[/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Grey.Anatomy/T18/LS-T18E02.mp4$nome=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Algum Tipo de Amanhã[/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Grey.Anatomy/T18/LS-T18E03.mp4$nome=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Mais Quente Que o Inferno[/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Grey.Anatomy/T18/LS-T18E04.mp4$nome=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Com Uma Pequena Ajuda De Meus Amigos[/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Grey.Anatomy/T18/LS-T18E05.mp4$nome=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]Engarrafar E Explodir![/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Grey.Anatomy/T18/LS-T18E06.mp4$nome=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]Todo Dia É Um Feriado (Com Você)[/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Grey.Anatomy/T18/LS-T18E07.mp4$nome=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]Hoje Foi Um Conto De Fadas[/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Grey.Anatomy/T18/LS-T18E08.mp4$nome=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]Veio Em Cima De Uma Meia-Noite Livre[/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Grey.Anatomy/T18/LS-T18E09.mp4$nome=[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white]Não Há Tempo Para Morrer[/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Grey.Anatomy/T18/LS-T18E10.mp4$nome=[COLOR orange][B]T01E10[COLOR yellow] -> [COLOR white]Viver Em Uma Casa Dividida[/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Grey.Anatomy/T18/LS-T18E11.mp4$nome=[COLOR orange][B]T01E11[COLOR yellow] -> [COLOR white]Legado[/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Grey.Anatomy/T18/LS-T18E12.mp4$nome=[COLOR orange][B]T01E12[COLOR yellow] -> [COLOR white]Os Ingredientes De Você[/B][/COLOR]</link>		
+		
+<thumbnail>https://www.themoviedb.org/t/p/original/ytJ8ip2ladalu2anoAjDVADGGf3.jpg</thumbnail>		
 <fanart>https://www.themoviedb.org/t/p/original/jNPEKkFKMl7UCw4kbNUkXZNyhna.jpg</fanart>		
 <info>Os médicos do Grey Sloan Memorial Hospital lidam diariamente com casos e consequências de vida ou morte.</info>		
 <genre>CRIME E DRAMA</genre>		
@@ -109,4 +243,3 @@ SOLICITE AO SUPORTE NO WHATS.[/B][/COLOR]</title>
 <fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>		
 </item>		
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
-		
