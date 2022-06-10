@@ -394,7 +394,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>			
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
 			
-item>			
+<item>			
 <title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]A Anatomia de Grey (2006) - T03 - HD DUB[/B][/COLOR]</title>			
 			
 <link>NOLINK$nome=[COLOR orange][B] Temporada 03 - 25 EPs[/B][/COLOR]</link>			
@@ -432,7 +432,7 @@ item>
 </item>			
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
 			
-item>			
+<item>			
 <title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]A Anatomia de Grey (2007) - T04 - HD DUB[/B][/COLOR]</title>			
 			
 <link>NOLINK$nome=[COLOR orange][B] Temporada 04 - 17 EPs[/B][/COLOR]</link>			
@@ -712,31 +712,4 @@ SOLICITE AO SUPORTE NO WHATS.[/B][/COLOR]</title>
 </item>			
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
 			
-<channels>			
-<channel>			
-<name>[COLOR white][B]A Anatomia de Grey (2005-2021)[/B][/COLOR]</name>			
-<externallink>https://raw.githubusercontent.com/GU712/A1I-CRDR-LS-KRP/main/C7-SRS-A.Anatomia.Grey-KRP</externallink>			
-<thumbnail>https://www.themoviedb.org/t/p/original/26sQ7WUxwpq35T1uxFHKy0TykYp.jpg</thumbnail>			
-<fanart>https://www.themoviedb.org/t/p/original/jNPEKkFKMl7UCw4kbNUkXZNyhna.jpg</fanart>			
-<info>Assista a série A Anatomia de Grey. 			
-[COLOR orange][B]CRIME E DRAMA[/B][/COLOR]			
-[COLOR orange][B]18 TEMPS - 388 EPs[/B][/COLOR]			
-[COLOR orange][B]ANOS - 2005 a 2021[/B][/COLOR]</info>			
-</channel>			
-</channels>			
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
-			
-<channels>			
-<channel>			
-<name>[COLOR white][B]A Anatomia de Grey (2005-2021)[/B][/COLOR]</name>			
-<externallink>https://raw.githubusercontent.com/GU712/B1I-CRDR-LS-MTX/main/C7-SRS-A.Anatomia.Grey-MTX</externallink>			
-<thumbnail>https://www.themoviedb.org/t/p/original/26sQ7WUxwpq35T1uxFHKy0TykYp.jpg</thumbnail>			
-<fanart>https://www.themoviedb.org/t/p/original/jNPEKkFKMl7UCw4kbNUkXZNyhna.jpg</fanart>			
-<info>Assista a série A Anatomia de Grey. 			
-[COLOR orange][B]CRIME E DRAMA[/B][/COLOR]			
-[COLOR orange][B]18 TEMPS - 388 EPs[/B][/COLOR]			
-[COLOR orange][B]ANOS - 2005 a 2021[/B][/COLOR]</info>			
-</channel>			
-</channels>			
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
-			
+	
