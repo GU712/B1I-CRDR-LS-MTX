@@ -257,7 +257,26 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 			
 <item>			
 <title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]A Anatomia de Grey (2019) - T16 - HD DUAL[/B][/COLOR]</title>			
-<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNET></link>			
+			
+<link>NOLINK$nome=[COLOR orange][B] Temporada 16 - 20 EPs[/B][/COLOR]</link>			
+			
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:57f1425d587c18ff35e5582b76f1ea94bb1ef6a7$nome=[COLOR orange][B]T1601[COLOR yellow] -> [COLOR white]Nao Ha Nada a Que Se Agarrar[/B][/COLOR]</link>			
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:db9c394b3cd6a9478e2145e156571423b95a8a44$nome=[COLOR orange][B]T1602[COLOR yellow] -> [COLOR white]De Volta à Sela[/B][/COLOR]</link>			
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:17a57bd9d476e2bfed124e16d7c92bd407b2c6f1$nome=[COLOR orange][B]T1603[COLOR yellow] -> [COLOR white]Reunidos[/B][/COLOR]</link>			
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3b8e8851c23fd99569d2d036c538d8849c7f5eba$nome=[COLOR orange][B]T1604[COLOR yellow] -> [COLOR white]Esta Chovendo Homens[/B][/COLOR]</link>			
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:483dd79592e013d5ad7237beac5639e72008e3bd$nome=[COLOR orange][B]T1605[COLOR yellow] -> [COLOR white]Respire Novamente[/B][/COLOR]</link>			
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e7d57773f19f0772fdefa40d8ed3623134ed2593$nome=[COLOR orange][B]T1606[COLOR yellow] -> [COLOR white]Assobiando Apos o Cemiterio[/B][/COLOR]</link>			
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:477c60baf58227c68ded08e95de38461f0b27ea9$nome=[COLOR orange][B]T1607[COLOR yellow] -> [COLOR white]Papa Nao Pregue[/B][/COLOR]</link>			
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c13a5787c5562f5b89132a1ec68d722a3b0f06bf$nome=[COLOR orange][B]T1608[COLOR yellow] -> [COLOR white]Minha Foto[/B][/COLOR]</link>			
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f723d6da4cbcc8d15d39a2105172fcbd5c5501e1$nome=[COLOR orange][B]T1609[COLOR yellow] -> [COLOR white]Vamos Todos ao Bar[/B][/COLOR]</link>			
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8556ce68e89ba8ce15f82374ec75065144553eb9$nome=[COLOR orange][B]T1610[COLOR yellow] -> [COLOR white]Me Ajude Durante A Noite[/B][/COLOR]</link>			
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:750a2a92c399cfc6989bda416f9668c0974dd2f8$nome=[COLOR orange][B]T1611[COLOR yellow] -> [COLOR white]Uma Pilula Dificil De Engolir[/B][/COLOR]</link>			
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:826edf1f7ef6361dd507993dcad38680f3abc966$nome=[COLOR orange][B]T1612[COLOR yellow] -> [COLOR white]A Ultima Ceia[/B][/COLOR]</link>			
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:37055c66b1ec9372358b080056cc9bc09d7e12f3$nome=[COLOR orange][B]T1613[COLOR yellow] -> [COLOR white]Salvar A Ultima Dansa Para Mim[/B][/COLOR]</link>			
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7cbb1832e3419d3d818ac3eb70f754bdc596a2ed$nome=[COLOR orange][B]T1614[COLOR yellow] -> [COLOR white]Um Diagnostico[/B][/COLOR]</link>			
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e075533e82738b9a363ab16b120c8adf24e7df25$nome=[COLOR orange][B]T1615-18[COLOR yellow] -> [COLOR white]Cego De Neve-De Um Pouco [/B][/COLOR]</link>			
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F9A0C6FDF74166C2AD9FA6B3C088C5EDAB2A867F$nome=[COLOR orange][B]T1619-20[COLOR yellow] -> [COLOR white]Amor Da Minha Vida-Cante De Novo[/B][/COLOR]</link>			
+			
 <thumbnail>https://www.themoviedb.org/t/p/original/vOsRhtaUvqzpJwF8OUwo6cbvaS0.jpg</thumbnail>			
 <fanart>https://www.themoviedb.org/t/p/original/jNPEKkFKMl7UCw4kbNUkXZNyhna.jpg</fanart>			
 <info>Os médicos do Grey Sloan Memorial Hospital lidam diariamente com casos e consequências de vida ou morte.</info>			
@@ -711,5 +730,3 @@ SOLICITE AO SUPORTE NO WHATS.[/B][/COLOR]</title>
 <fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>			
 </item>			
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
-			
-	
