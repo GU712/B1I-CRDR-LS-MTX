@@ -166,6 +166,20 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
+<name>[COLOR white][B]CSI: Nova York (2004-2012)[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/B1I-CRDR-LS-MTX/main/C23-SRS-CSI.Nova.York-MTX</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/28zP1oyg1C8CeFXmEcOcLkSUMQ7.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/xwhp6vi30tOYnMcsHaIEbloLkH3.jpg</fanart>
+<info>Assista a série CSI: Nova York. 
+[COLOR orange][B]CRIME E DRAMA[/B][/COLOR]
+[COLOR orange][B]09 TEMPS - 197  EPs[/B][/COLOR]
+[COLOR orange][B]ANOS - 2004 a 2012[/B][/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
 <name>[COLOR white][B]Desaparecidos (2002-2009)[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/B1I-CRDR-LS-MTX/main/C5-SRS-Without.a.Trace-MTX</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nFjZDC3m2jIzuVWU3EuE1D4KsBH.jpg</thumbnail>
