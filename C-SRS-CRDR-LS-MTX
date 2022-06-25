@@ -152,6 +152,34 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
+<name>[COLOR white][B]CSI: Investigação Criminal (2000-2015) - COMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/B1I-CRDR-LS-MTX/main/C25-SRS-CSI.Las.Vegas-MTX</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/4LEty57u3sjh5HZ80lH4yez1SAd.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/AganKzamK1dnkqNoHwngavBVzor.jpg</fanart>
+<info>Assista a série CSI: Investigação Criminal. 
+[COLOR orange][B]CRIME E DRAMA[/B][/COLOR]
+[COLOR orange][B]16 TEMPS - 339 EPs[/B][/COLOR]
+[COLOR orange][B]ANOS - 2000 a 0000[/B][/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]C.S.I. Cyber (2015) - COMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/B1I-CRDR-LS-MTX/main/C24-SRS-CSI.Cyber-MTX</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/fCdD4PZWgcgx2HBklcXSA29ZuK9.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/cbOb5UC1BmdifRVNhT6FNdOqWEA.jpg</fanart>
+<info>Assista a série C.S.I. Cyber. 
+[COLOR orange][B]CRIME E DRAMA[/B][/COLOR]
+[COLOR orange][B]02 TEMPS - 31 EPs[/B][/COLOR]
+[COLOR orange][B]ANOS - 2015[/B][/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
 <name>[COLOR white][B]CSI: Miami (2002-2011) - COMPLETA[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/B1I-CRDR-LS-MTX/main/C22-SRS-CSI.Miami-MTX</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/ihI0TbJj0Jykl2BDKHmoUpeTWjD.jpg</thumbnail>
@@ -160,20 +188,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange][B]CRIME E DRAMA[/B][/COLOR]
 [COLOR orange][B]10 TEMPS - 232 EPs[/B][/COLOR]
 [COLOR orange][B]ANOS - 2002 a 2011[/B][/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR white][B]C.S.I. Cyber (2015)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/B1I-CRDR-LS-MTX/main/C24-SRS-CSI.Cyber-MTX</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/fCdD4PZWgcgx2HBklcXSA29ZuK9.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/cbOb5UC1BmdifRVNhT6FNdOqWEA.jpg</fanart>
-<info>Assista a série C.S.I. Cyber. 
-[COLOR orange][B]CRIME E DRAMA[/B][/COLOR]
-[COLOR orange][B]02 TEMPS - 31 EPs[/B][/COLOR]
-[COLOR orange][B]ANOS - 2015[/B][/COLOR]</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
