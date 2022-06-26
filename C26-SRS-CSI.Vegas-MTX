@@ -1,0 +1,99 @@
+<item>			
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>			
+<link>NOLINK</link>			
+<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>			
+<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>			
+<info>[B]FAÇA SUA ESCOLHA E DIVIRTA-SE[/B]</info>			
+</item>			
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
+			
+<item>			
+<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]CSI: Vegas[/B][/COLOR]</title>			
+<link>plugin://plugin.video.youtube/play/?video_id=mc-YZ7oUF2s</link>			
+<thumbnail>https://www.themoviedb.org/t/p/original/rUrZj1su654gz9neAiJs9z1y56Z.jpg</thumbnail>			
+<fanart>https://www.themoviedb.org/t/p/original/o4YDCS2Hb1aG1FqPJEXashxFWV8.jpg</fanart>			
+<info>Assista ao trailer</info>			
+<genre>GENERO</genre> 			
+</item>			
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
+			
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
+TORRENTS			
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
+			
+item>			
+<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]CSI: Vegas (DATA) - FHD DUAL[/B][/COLOR]</title>			
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNET></link>			
+<thumbnail><CAPADASERIE></thumbnail>			
+<fanart>https://www.themoviedb.org/t/p/original/o4YDCS2Hb1aG1FqPJEXashxFWV8.jpg</fanart>			
+<info><SINOPSE></info>			
+<genre>GENERO</genre>			
+</item>			
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
+			
+item>			
+<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]CSI: Vegas (2021) - HD LEG FIX[/B][/COLOR]</title>			
+			
+<link>NOLINK$nome=[COLOR orange][B] Temporada 01 - 10 EPs[/B][/COLOR]</link>			
+			
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNET>$nome=[COLOR orange][B]T02E01[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO [/B][/COLOR]</link>			
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNET>$nome=[COLOR orange][B]T02E02[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO [/B][/COLOR]</link>			
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNET>$nome=[COLOR orange][B]T02E03[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO [/B][/COLOR]</link>			
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNET>$nome=[COLOR orange][B]T02E04[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO [/B][/COLOR]</link>			
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNET>$nome=[COLOR orange][B]T02E05[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO [/B][/COLOR]</link>			
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNET>$nome=[COLOR orange][B]T02E06[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO [/B][/COLOR]</link>			
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNET>$nome=[COLOR orange][B]T02E07[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO [/B][/COLOR]</link>			
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNET>$nome=[COLOR orange][B]T02E08[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO [/B][/COLOR]</link>			
+			
+<thumbnail><CAPADASERIE></thumbnail>			
+<fanart>https://www.themoviedb.org/t/p/original/o4YDCS2Hb1aG1FqPJEXashxFWV8.jpg</fanart>			
+<info><SINOPSE></info>			
+<genre>GENERO</genre>			
+</item>			
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
+			
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
+SERVER LS			
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
+			
+<item>			
+<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]CSI: Vegas (2021) - T01 - HD LEG FIX[/B][/COLOR]</title>			
+			
+<link>NOLINK$nome=[COLOR orange][B] Temporada 01 - 10 EPs[/B][/COLOR]</link>			
+			
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/CSI.Vegas/LS-T01E01.mp4$nome=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Legado [/B][/COLOR]</link>			
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/CSI.Vegas/LS-T01E02.mp4$nome=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Lua de mel em Vegas [/B][/COLOR]</link>			
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/CSI.Vegas/LS-T01E03.mp4$nome=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Sob a pele [/B][/COLOR]</link>			
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/CSI.Vegas/LS-T01E04.mp4$nome=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Porco Grande [/B][/COLOR]</link>			
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/CSI.Vegas/LS-T01E05.mp4$nome=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]Deixe as fichas cairem [/B][/COLOR]</link>			
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/CSI.Vegas/LS-T01E06.mp4$nome=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]Casa de diversoes [/B][/COLOR]</link>			
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/CSI.Vegas/LS-T01E07.mp4$nome=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]No Sangue [/B][/COLOR]</link>			
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/CSI.Vegas/LS-T01E08.mp4$nome=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]Limpador de tubulasoes [/B][/COLOR]</link>			
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/CSI.Vegas/LS-T01E09.mp4$nome=[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white]Esperando nas asas [/B][/COLOR]</link>			
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/CSI.Vegas/LS-T01E10.mp4$nome=[COLOR orange][B]T01E10[COLOR yellow] -> [COLOR white]Assinado selado entregue [/B][/COLOR]</link>			
+			
+<thumbnail>https://www.themoviedb.org/t/p/original/2GizU90UuGrO8LKsjgVZtgF14bK.jpg</thumbnail>			
+<fanart>https://www.themoviedb.org/t/p/original/o4YDCS2Hb1aG1FqPJEXashxFWV8.jpg</fanart>			
+<info>A ameaça que pode derrubar o Laboratório Criminal, a nova equipe de investigadores  deve receber de volta velhos amigos e implantar novas técnicas para servir à justiça.</info>			
+<genre>CRIME E DRAMA</genre>			
+</item>			
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
+			
+			
+<item>			
+<title>[COLOR black].[/COLOR]</title>			
+<link>ignoreme</link>			
+<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>			
+<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>			
+</item>			
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
+			
+<item>			
+<title>[COLOR orange][B]O VÍDEO NÃO ABRIU  ?			
+ CONTATE O SUPORTE NO WHATS, QUE RESOLVEMOS. [/B][/COLOR]</title>			
+<link>ignoreme</link>			
+<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>			
+<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>			
+</item>			
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
