@@ -83,8 +83,20 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <genre>CRIME E DRAMA</genre>				
 </item>				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-				
-<subitem>				
+
+<item>
+<title>[COLOR white][B]Era Uma Vez na América (1984)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=Ck4UXtTa-9U$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Era Uma Vez na America[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6C51FDB149B432919FC402DC4C94FF1478C19E09$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Era Uma Vez na America - FHD DUAL[/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/9CRDR-FM/LS-Era.uma.Vez.na.America.1984.FHD.DUAL+LEG.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Era Uma Vez na America - FHD DUAL+LEG[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/8E2lZjt28MR6Dzc3QOiVzM8PvXU.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/6J0sBM6ZaoWZJ1gYeWp6w5q5Kyp.jpg</fanart>
+<info>Depois de crescer no gueto judeu de Nova Iorque e se destacar no crime organizado da Era da Proibição, um gângster de idade retorna a Brooklyn para enfrentar seu passado.</info>
+<genre>CRIME E DRAMA</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>				
 <title>[COLOR white][B]Estrada Sem Lei (2019)[/B][/COLOR]</title>				
 <link>plugin://plugin.video.youtube/play/?video_id=aH6vC-BBKOc$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Estrada Sem Lei[/B][/COLOR]</link>				
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d9b4f71c232689599923f0af7d0276829aef1884$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Estrada Sem Lei - HD DUAL[/B][/COLOR]</link>				
@@ -94,7 +106,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <fanart>https://www.themoviedb.org/t/p/original/1MUokmbc3qGXj69R8DyM6etF46Q.jpg</fanart>				
 <info>Frank Hamer e Maney Gault são dois policiais aposentados quando Bonnie e Clyde começam sua onda de assaltos e assassinatos.O FBI se mostra incapaz de capturar os bandidos, eles são recrutados para resolver o caso.</info>				
 <genre>GUERRA</genre>				
-</subitem>				
+</item>				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
