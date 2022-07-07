@@ -82,17 +82,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]CHiPs (1977-1983)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/A1I-CRDR-LS-KRP/main/C11-SRS-CHiPs-KRP</externallink>
-<item>		
-<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>		
-<link>NOLINK</link>		
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>		
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>		
-<info>[B]FAÇA SUA ESCOLHA E DIVIRTA-SE[/B]</info>		
-</item>		
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
+<name>[COLOR white][B]CHiPs (1977-1983)- ATUALIZANDO[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/B1I-CRDR-LS-MTX/main/C11-SRS-CHiPs-MTX</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/obrPwSPS0q9zK5e7xwlVGlAmWSg.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/A7Zx5z367TM0lQRgTQ63q0JGs02.jpg</fanart>
+<info>Assista a série CHiPs. 
+[COLOR orange][B]CRIME E DRAMA[/B][/COLOR]
+[COLOR orange][B]06  TEMPS - 139  EPs[/B][/COLOR]
+[COLOR orange][B]ANOS - 1977 a 1983[/B][/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
 
 <item>		
 <title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]CHiPs[/B][/COLOR]</title>		
